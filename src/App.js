@@ -20,7 +20,7 @@ function App() {
                                 <li><a href='https://www.facebook.com/dreameffects' target='_blank'><i class="fa fa-facebook" aria-hidden='true'></i> <span>Facebook</span></a></li>
                                 <li><a href='https://twitter.com/dreameffects' target='_blank'><i class='fa fa-twitter' aria-hidden='true'></i> <span>Twitter</span></a></li>
                                 <li><a href='https://www.linkedin.com/company/dreameffects/' target='_blank'><i class='fa fa-linkedin' aria-hidden='true'></i> <span>LinkedIn</span></a></li>
-                                <li><a href='https://www.linkedin.com/company/dreameffects/' target='_blank'><i class='fa fa-youtube-play' aria-hidden='true'></i> <span>YouTube</span></a></li>
+                                <li><a href='https://www.youtube.com/channel/UCODqPJWUrq7ibJ5AnNasQVw' target='_blank'><i class='fa fa-youtube-play' aria-hidden='true'></i> <span>YouTube</span></a></li>
                                 <li><a href='https://www.youtube.com/@DreamEffectsMultimedia' target='_blank'><i class='fa fa-behance' aria-hidden='true'></i> <span>Behance</span></a></li>
                             </ul>
                         </div>
