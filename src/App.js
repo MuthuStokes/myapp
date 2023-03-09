@@ -10,6 +10,7 @@ function App() {
                     <div className='col-md-4'></div>
                     <div className='col-md-4'>
 
+
                         <div className='boxlogo text-center'>
                             <img src={logo} alt='dreameffect logo' className='img-fluid header-logo'></img>
                         </div>
